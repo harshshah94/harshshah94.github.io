@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Harsh Shah</title>
+    <link>/project/</link>
+    <description>Recent content in Projects on Harsh Shah</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Apr 2016 00:00:00 -0400</lastBuildDate>
+    
+	<atom:link href="/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>pic Share</title>
+      <link>/project/picshare/</link>
+      <pubDate>Fri, 29 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/picshare/</guid>
+      <description>A social networking web app which provides sharing annotated pictures with friends</description>
+    </item>
+    
+    <item>
+      <title>Document Classifier</title>
+      <link>/project/document-classifier/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/document-classifier/</guid>
+      <description>Aim was to assign class or category to a document based on content, making it easier to organize</description>
+    </item>
+    
+    <item>
+      <title>Food Detection</title>
+      <link>/project/food-detection/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/food-detection/</guid>
+      <description>Explored workflow of object detection algorithms(YOLO) and utilized for food detection</description>
+    </item>
+    
+    <item>
+      <title>GO-AMIGO</title>
+      <link>/project/go-ami-go/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/go-ami-go/</guid>
+      <description>A smart trip planner which provides multiple functionalities on one platform</description>
+    </item>
+    
+    <item>
+      <title>Suicide Sentiment Analysis</title>
+      <link>/project/suicide-sentiment-analysis/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 -0400</pubDate>
+      
+      <guid>/project/suicide-sentiment-analysis/</guid>
+      <description>Find people who are suspected to commit suicide with use of twitter data</description>
+    </item>
+    
+  </channel>
+</rss>
